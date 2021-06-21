@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1009407125084",
+    "project_id": "thingz-evignette",
+    "storage_bucket": "thingz-evignette.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009407125084:android:743fb13b224b1743022899",
+        "android_client_info": {
+          "package_name": "hu.thingz.eVignette.thingz_evignette"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009407125084-96gnbee6vo47u59nvh1u60r1rvjmoaip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACDnBfRzGkuIWwalHd6-paTVpSrQAEmZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009407125084-96gnbee6vo47u59nvh1u60r1rvjmoaip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
